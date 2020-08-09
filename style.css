@@ -1,8 +1,9 @@
- body {
-      background: #3e5261;
+      body {
+        background: #3e5261;
         color: #d4d8dc;
-        font: Verdana, sans-serif;
+        font: 'Verdana', sans-serif;
       }
+
       ul {
         list-style-type: none;
         margin: 0;
@@ -21,6 +22,6 @@
         text-decoration: none;
       }
 
-    li a:hover {
-      background-color: #111;
-    }
+      li a:hover {
+        background-color: #111;
+      }
